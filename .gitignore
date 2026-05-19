@@ -219,3 +219,5 @@ __marimo__/
 
 # Idea
 .idea
+
+secrets.env
